@@ -1,2 +1,2 @@
-# pybonnacci
-Compute fibonnaci's sequence fast.
+# pybonacci
+Compute fibonacci's sequence fast.
