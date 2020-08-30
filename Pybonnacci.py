@@ -18,3 +18,14 @@ if __name__ == "__main__":
     stop = time.time()
 
     print(f'Time to compute the first thousand of Fibonacci\'s sequence : {stop - start} seconds')
+
+
+
+"""
+To compute the nTh term of the fibonacci sequence, we use the Binet's theorem.
+
+	    1 + sqrt(5)
+fib(n) =  ((____________)^n) / sqrt(5)
+	       	 2
+
+"""
